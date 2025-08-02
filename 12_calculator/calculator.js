@@ -31,3 +31,5 @@ module.exports = {
   power,
   factorial
 };
+
+//minor test
